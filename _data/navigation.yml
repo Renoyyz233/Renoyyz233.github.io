@@ -10,5 +10,5 @@ main:
   #  url: /Awards/
   
   - title: "CV"
-    url: "https://fengyiliao.github.io/files/CV.pdf"
+    url: "https://fengyiliao.github.io/files/CV.pdf" {:target="_blank"}
     
