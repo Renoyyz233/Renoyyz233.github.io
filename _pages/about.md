@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am a master student in Electrical of Computer Engingeering(ECE) at the University of California, San Diego. Previously, I received my bechalor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University.
 
 Reseaerch Interests
