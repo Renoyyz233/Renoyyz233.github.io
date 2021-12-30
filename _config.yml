@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Feng Yi Liao"
-  avatar           : "profile.png"
+  avatar           : "FengYiLiao.jpg"
   bio              : "MS student at UCSD"
   location         : "California, USA"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/FengYiLiao"
+  github           : fengyiliao
   google_plus      :
   keybase          :
   instagram        :
