@@ -24,7 +24,7 @@ Awards
 
 Publications/Presentation
 ======
-- A. Q. Xu, S. J. Luo, F. Y. Liao, I. C. Chen, M. C. Chien, and K. Y. Huang, “Development of Novel Auto Inspection System for Paddy Seed Germination,” Sensors and Materials, vol. 32, pp. 3647-3657, 2020. [pdf.]
+- A. Q. Xu, S. J. Luo, F. Y. Liao, I. C. Chen, M. C. Chien, and K. Y. Huang, “Development of Novel Auto Inspection System for Paddy Seed Germination,” Sensors and Materials, vol. 32, pp. 3647-3657, 2020. [pdf.](https://pdfs.semanticscholar.org/5ae2/cbea6367a30d9647330b17ec814a2d5f2e26.pdf)
 - F. Y. Liao,K. Y. Huang, and M. T. Yan. “Auto-measurement of geometric features for micro cutting tools,” International Society of Mechatronic Engineering, the 5th conference, (ISME), 2020. oral presentation.
 
 
