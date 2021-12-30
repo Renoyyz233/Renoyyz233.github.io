@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  CV               : 123
 
 
 # Reading Files
@@ -176,13 +177,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
