@@ -1,5 +1,5 @@
 # main links links
-#main:
+main:
   #- title: "Publications"
   #  url: /publications/
         
@@ -8,4 +8,7 @@
     
   #- title: "Awards"
   #  url: /Awards/
+  
+  - title: "CV"
+    url: "https://fengyiliao.github.io/files/CV.pdf"
     
