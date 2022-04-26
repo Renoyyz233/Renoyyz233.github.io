@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in Electrical of Computer Engingeering(ECE) at the University of California, San Diego. I received my bachelor degree of Computer Science in Cardiff University.
+I am a master student in Electrical of Computer Engingeering(ECE) (Track: Machine Learning & Data Science) at the University of California, San Diego. I completed my bachelor degree of BSc Computer Science with first honor in Cardiff University.
 
 Reseaerch Interests
 ======
