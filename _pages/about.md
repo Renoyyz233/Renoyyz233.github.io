@@ -50,6 +50,10 @@ self-feedback evolutionary sequence) and four software copyrights including part
 intelligence reception desk reservation & registration management software, Kinect
 identification software V1.0, smart rent and loan system supporting fingerprint identification
 V1.0 and a searchable encrypted database system supporting threshold password schemes. 
+  - The team has successfully developed the Liz visitor platform based on the SaaS model with
+the existing technology. A company has been registered, and the system has been put into commercial use.
+  - The proejct was awarded as National Project Approval for Development and Promotion of Lizi Visitor Platform Based on
+SaaS Mode.
 - 2021 - 2022, Cardiff University Research Internship
   - Researched and analysed different machine learning visual saliency models’ performance
 across different categories of images / videos. 
