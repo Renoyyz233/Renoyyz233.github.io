@@ -1,14 +1,22 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+#   - title: "Publications"
+#     url: /publications/
+
+#   - title: "Talks"
+#     url: /talks/    
+
+#   - title: "Teaching"
+#     url: /teaching/    
+    
+#   - title: "Portfolio"
+#     url: /portfolio/
         
-  #- title: "Projects"
-  #  url: /year-archive/
+#   - title: "Blog Posts"
+#     url: /year-archive/
     
-  #- title: "Awards"
-  #  url: /Awards/
-  
   - title: "CV"
-    url: "https://fengyiliao.github.io/files/CV.pdf"
+    url: "https://YanzhiYao.github.io/files/CV.pdf"
     
+#   - title: "Guide"
+#     url: /markdown/

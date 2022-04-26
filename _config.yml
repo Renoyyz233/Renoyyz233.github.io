@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "USA"
-title                    : "Yanzhi Yao / MS Student "
+locale                   : "en-US"
+title                    : "Yanzhi Yao"
 title_separator          : "-"
 name                     : &name "Yanzhi Yao"
-description              : &description "personal description"
-url                      : https://Renoyyz233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Master Student in Uinversity of California San Diego"
+url                      : https://YanzhiYao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Renoyyz233/Renoyyz233.github.io"
+repository               : "Renoyyz233/YanzhiYao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feng Yi Liao"
-  avatar           : "FengYiLiao.jpg"
+  name             : "Yanzhi Yao"
+  avatar           : "photo.png"
   bio              : "MS student at UCSD"
   location         : "California, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "robert147456@gmail.com"
+  email            : "yaoyanzhireno@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : fengyiliao
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-minimal
