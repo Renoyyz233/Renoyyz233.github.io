@@ -41,6 +41,13 @@ Global Students’ Science and Technology Competition
 
 Academic Project Experience
 ======
+- 2022 - Now, University of California San Diego Research Intership
+- 2021 - 2022, Cardiff University Research Internship
+  - Researched and analysed different machine learning visual saliency models’ performance
+across different categories of images / videos. 
+  - Developed a web-based rating system to collect the experiment data. 
+  - Built a more accurate visual saliency dataset for visual saliency models development.
+
 - 2018 - 2022, Development and Promotion of Liz Visitor Platform Based on SaaS Mode
 Project Leader
   - Lead team enroll three national patents (including a population density detection method and
@@ -54,9 +61,3 @@ V1.0 and a searchable encrypted database system supporting threshold password sc
 the existing technology. A company has been registered, and the system has been put into commercial use.
   - The proejct was awarded as National Project Approval for Development and Promotion of Lizi Visitor Platform Based on
 SaaS Mode.
-- 2021 - 2022, Cardiff University Research Internship
-  - Researched and analysed different machine learning visual saliency models’ performance
-across different categories of images / videos. 
-  - Developed a web-based rating system to collect the experiment data. 
-  - Built a more accurate visual saliency dataset for visual saliency models development.
-- 2022 - Now, University of California San Diego Research Intership
