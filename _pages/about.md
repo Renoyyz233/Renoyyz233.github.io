@@ -46,7 +46,7 @@ Project Leader
   - Lead team enroll three national patents (including a population density detection method and
 system based on deep learning, a method for human behaviour recognition based on selffeedback
 gene expression programming and a key sequence generation method based on
-self-feedback evolutionary sequence) and four software copyrights (including particle
+self-feedback evolutionary sequence) and four software copyrights including particle
 intelligence reception desk reservation & registration management software, Kinect
 identification software V1.0, smart rent and loan system supporting fingerprint identification
 V1.0 and a searchable encrypted database system supporting threshold password schemes. 
