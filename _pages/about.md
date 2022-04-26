@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in Electrical of Computer Engingeering(ECE) at the University of California, San Diego. Previously, I received my bachelor degree in Computer Science, Cardiff University.
+I am a master student in Electrical of Computer Engingeering(ECE) at the University of California, San Diego. I received my bachelor degree of Computer Science in Cardiff University.
 
 Reseaerch Interests
 ======
@@ -49,6 +49,7 @@ self-feedback evolutionary sequence) and four software copyrights (including par
 intelligence reception desk reservation & registration management software, Kinect
 identification software V1.0, smart rent and loan system supporting fingerprint identification
 V1.0 and a searchable encrypted database system supporting threshold password schemes. 
-- 2021 - 2022, Cardiff University Research Internship. Researched and analysed different machine learning visual saliency models’ performance
+- 2021 - 2022, Cardiff University Research Internship. 
+  - Researched and analysed different machine learning visual saliency models’ performance
 across different categories of images / videos. Developed a web-based rating system to collect the experiment data. Built a more accurate visual saliency dataset for visual saliency models development.
 - 2022 - Now, University of California San Diego research intership. 
