@@ -42,14 +42,17 @@ Global Students’ Science and Technology Competition
 Academic Project Experience
 ======
 - 2018 - 2022, Development and Promotion of Liz Visitor Platform Based on SaaS Mode
-Project Leader. Lead team enroll three national patents (including a population density detection method and
+Project Leader
+  - Lead team enroll three national patents (including a population density detection method and
 system based on deep learning, a method for human behaviour recognition based on selffeedback
 gene expression programming and a key sequence generation method based on
 self-feedback evolutionary sequence) and four software copyrights (including particle
 intelligence reception desk reservation & registration management software, Kinect
 identification software V1.0, smart rent and loan system supporting fingerprint identification
 V1.0 and a searchable encrypted database system supporting threshold password schemes. 
-- 2021 - 2022, Cardiff University Research Internship. 
+- 2021 - 2022, Cardiff University Research Internship
   - Researched and analysed different machine learning visual saliency models’ performance
-across different categories of images / videos. Developed a web-based rating system to collect the experiment data. Built a more accurate visual saliency dataset for visual saliency models development.
-- 2022 - Now, University of California San Diego research intership. 
+across different categories of images / videos. 
+  - Developed a web-based rating system to collect the experiment data. 
+  - Built a more accurate visual saliency dataset for visual saliency models development.
+- 2022 - Now, University of California San Diego Research Intership
